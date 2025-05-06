@@ -1,6 +1,6 @@
 <img src="./assets/top.svg" alt="top" style="width: 100%;">
 
-# <div align="center">Hi there! I'm Albert<img src="" width="40" /></div>
+# <div align="center">Hi there! I'm Albert
 
 ### <div align="center">💻 AI & Backend Developer 💻</div>
 
