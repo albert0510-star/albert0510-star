@@ -85,16 +85,12 @@
 ### DevOps Engineering Skills
 
 <div align="left">  
-<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" width="70" padding="10" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="70" width="70" padding="10" /></a>  
 <a href="https://github.com/" target="_blank"><img src="https://api.iconify.design/devicon/github.svg" alt="GitHub" height="70" width="70" padding="10" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://api.iconify.design/skill-icons/aws-dark.svg" alt="AWS" height="70" width="70" padding="10" /></a>  
 <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://api.iconify.design/skill-icons/azure-dark.svg" alt="Microsoft Azure" height="70" width="70" padding="10" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="70" width="70" padding="10" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" width="70" padding="10" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="70" width="70" padding="10" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="70" width="70" padding="10" /></a>  
-<a href="https://grafana.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="70" width="70" padding="10" /></a>  
 </div>
 
 </td></tr></table>
